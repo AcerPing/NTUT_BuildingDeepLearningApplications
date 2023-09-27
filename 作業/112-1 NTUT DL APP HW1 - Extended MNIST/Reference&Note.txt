@@ -1,0 +1,17 @@
+1.) SpinalNet/MNIST_VGG → 尚未測試
+https://github.com/dipuk0506/SpinalNet/tree/master/MNIST_VGG
+
+2.) EMNIST Letter Dataset 97.9%:acc & val_acc: 91.78% → Score 81%~83%
+https://www.kaggle.com/code/achintyatripathi/emnist-letter-dataset-97-9-acc-val-acc-91-78
+
+3.) Letter EMNIST CNN (92% training acc, 90% test acc) → 尚未測試
+https://www.kaggle.com/code/jeckowturtle/letter-emnist-cnn-92-training-acc-90-test-acc
+
+4.) 112-1-ntut-dl-app-hw1-example → Score 83%~85%
+https://www.kaggle.com/code/kuantinglai/112-1-ntut-dl-app-hw1-example
+
+5.) Rank1 SpinalVGG - Extended MNIST → Score 84%~87%
+https://www.kaggle.com/code/lizhecheng/rank1-spinalvgg-extended-mnist/notebook
+
+6.) EMNIST_0327 → Score 81%
+https://www.kaggle.com/code/pengchunpeng/emnist-0327
