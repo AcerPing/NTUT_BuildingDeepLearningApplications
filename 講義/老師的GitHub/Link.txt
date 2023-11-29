@@ -1,0 +1,2 @@
+老師的GitHub Websit: https://github.com/fchollet/deep-learning-with-python-notebooks
+BUILDING DEEP LEARNING APPLICATIONS: http://www.aiotlab.org/teaching/dl_app.html
