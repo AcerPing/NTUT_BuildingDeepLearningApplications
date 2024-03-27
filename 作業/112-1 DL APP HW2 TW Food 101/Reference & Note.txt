@@ -1,0 +1,18 @@
+1.) F1 score=85% EfficientNetB3 Model → 無法成功，無法跑出Testing Data的檔案，因此無法Submit Prediction。
+https://www.kaggle.com/code/gpiosenka/f1-score-85-efficientnetb3-model/notebook
+
+2.) TWFood101_CNN_Transfer Learning → Score 56%
+https://www.kaggle.com/code/pengchunpeng/twfood101-cnn-transfer-learning
+
+3.) 111-1_EE_AI_TW_Food_101 → Score 29%
+https://www.kaggle.com/code/kuantinglai/111-1-ee-ai-tw-food-101/notebook
+
+4.) 111c51508 richard → Score 86%
+https://www.kaggle.com/code/t111c51508/111c51508-richard
+
+5.) 111c51508-0.9273 → X, NotFoundError；NotFoundError: Graph execution error
+https://www.kaggle.com/hocheping/111c51508-0-9273-v1/edit
+
+6.) Taiwanese-Food-101 → X, ValueError: Asked to retrieve element 0, but the Sequence has length 0
+https://www.kaggle.com/code/hocheping/taiwanese-food-101/edit
+https://github.com/106368015AlvinYang/Taiwanese-Food-101/tree/master
