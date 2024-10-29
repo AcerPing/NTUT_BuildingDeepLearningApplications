@@ -10,8 +10,9 @@ https://www.kaggle.com/code/kuantinglai/111-1-ee-ai-tw-food-101/notebook
 4.) 111c51508 richard → Score 86%
 https://www.kaggle.com/code/t111c51508/111c51508-richard
 
-5.) 111c51508-0.9273 → X, NotFoundError；NotFoundError: Graph execution error
-https://www.kaggle.com/hocheping/111c51508-0-9273-v1/edit
+5.) 111c51508-0.9273 → Score 85.9%
+（Success）https://www.kaggle.com/code/amandatien/111c51508-0-9273
+（Failure → NotFoundError: Graph execution error）https://www.kaggle.com/hocheping/111c51508-0-9273-v1/edit
 
 6.) Taiwanese-Food-101 → X, ValueError: Asked to retrieve element 0, but the Sequence has length 0
 https://www.kaggle.com/code/hocheping/taiwanese-food-101/edit
